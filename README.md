@@ -1,5 +1,5 @@
 ### Stream Summarizer: Elevating Video Editing Through Text Mining
-#### | Course Project: Text Mining Applications in Business
+#### | Course Project: Text Mining Applications in Business (2023.Senior)
 
 #### | 👾 Intro.
 Stream Summarizer, your reliable tool built with Python for simplifying video editing. Equipped with features like keyword extraction, emotion analysis, and emoji interpretation, StreamSummarizer enables video editors to quickly spot the most engaging, crucial, or amusing segments in live streams without needing to watch them entirely,streamline their editing process, and save their valuable time and effort. 
